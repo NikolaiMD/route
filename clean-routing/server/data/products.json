@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Products 1",
+    "category": "Category 1",
+    "price": {
+      "amount": 100.00,
+      "currency": "USD"
+    },
+    "quantity": 200
+  },
+  {
+    "name": "Products 2",
+    "category": "Category 1",
+    "price": {
+      "amount": 200.00,
+      "currency": "USD"
+    },
+    "quantity": 200
+  },
+  {
+    "name": "Products 3",
+    "category": "Others",
+    "price": {
+      "amount": 300.00,
+      "currency": "USD"
+    },
+    "quantity": 200
+  }
+]
